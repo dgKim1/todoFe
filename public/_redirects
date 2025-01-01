@@ -1,2 +1,1 @@
-/* /index.html 200
-/api/* http://todo-dg-env-1.eba-xembydde.ap-northeast-2.elasticbeanstalk.com/:splat 200
+/api/* http://todo-dg-env-1.eba-xembydde.ap-northeast-2.elasticbeanstalk.com/api/:splat 200
