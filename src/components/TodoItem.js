@@ -6,7 +6,7 @@ const TodoItem = ({ item, toggleComplete, deleteItem }) => {
   return (
     <Row>
       <Col xs={12}>
-        <div className={`todo-item ${item.isComplete ? "" : "item-finish"}`}>
+        <div className={`todo-item ${item.isComplete ? "item-finish" : ""}`}>
           <div className="todo-content">{item.task}</div>
 
           <div>
